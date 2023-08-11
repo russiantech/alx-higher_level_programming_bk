@@ -8,6 +8,7 @@
  * Return: null on failure else pointer to new node.
  *
  */
+
 listint_t *insert_node(listint_t **head, int number)
 {
 	listint_t *node = *head, *new;
