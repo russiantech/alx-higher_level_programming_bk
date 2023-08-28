@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
 import sys
-
 """
     run/exec func safely.
 
