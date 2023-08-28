@@ -9,6 +9,7 @@
         0 if( TypeError|ValueError) else 1
     """
 
+
 def safe_print_integer(value):
     try:
         print("{:d}".format(value))

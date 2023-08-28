@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Divide a/b and return the difference
+# Divide a/b and return the difference
 
 def safe_print_division(a, b):
     try:
