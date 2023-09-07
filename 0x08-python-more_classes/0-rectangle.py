@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-# define an empty class called Rectangle
+""" will create/defines our Rectangle class."""
+
 
 class Rectangle:
-    # reps a rectangle class
+    """ repr our rectangle. """
     pass
