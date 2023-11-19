@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
-""" 
-prints * corresponding  City objects from hbtn_0e_14_usa DB
-
-"""
+""" prints * corresponding  City objects from hbtn_0e_14_usa DB """
 
 import sys
 from model_state import Base, State

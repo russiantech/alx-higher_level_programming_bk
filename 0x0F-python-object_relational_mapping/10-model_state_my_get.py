@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-""" 
-prints State object with the name passed as arg from the DB.
 
-"""
+""" prints State object with the name passed as arg from the DB. """
+
 import sys
 from model_state import Base, State
 from sqlalchemy import (create_engine)

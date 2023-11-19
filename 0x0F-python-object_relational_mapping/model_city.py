@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
-"""
-Defines the city/table class 
-
-"""
+""" Defines the city/table class """
 
 from model_state import Base
 from sqlalchemy import Column, Integer, String, ForeignKey

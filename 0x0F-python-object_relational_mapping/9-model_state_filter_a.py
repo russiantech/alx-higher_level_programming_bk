@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-""" 
-lists all State objects having  letter a from hbtn_0e_6_usa DB
 
-"""
+"""lists * State objects having  letter a from hbtn_0e_6_usa DB """
 
 import sys
 from model_state import Base, State
